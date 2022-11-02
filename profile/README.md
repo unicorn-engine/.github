@@ -2,7 +2,7 @@ Unicorn Engine
 ==============
 
 <p align="center">
-<img width="250" src="unicorn-logo.png">
+<img width="250" src="/profile/unicorn-logo.png">
 </p>
 
 Unicorn is a lightweight, multi-platform, multi-architecture CPU emulator framework, based on [QEMU](http://qemu.org).
